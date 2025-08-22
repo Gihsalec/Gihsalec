@@ -1,5 +1,4 @@
 ## Olá, meu nome é Giovanna
-##
 
 - 💻 Estudante de Sistemas e Mídias Digitais na UFC
 - 🔍 Me interesso por programação em diversas linguagens, explorando desde desenvolvimento criativo até soluções práticas. Também tenho interesse em design, jogos e animação, buscando unir tecnologia e criatividade em meus projetos.
