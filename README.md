@@ -9,6 +9,7 @@
   <img align="center" alt="Gih-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gih-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gih-Java" height="30" width="40" src="https://th.bing.com/th/id/R.1e1ba20cfa4a4c86d66437632e35df2f?rik=kFYKaDX1vZx8Mg&pid=ImgRaw&r=0" />
+  <img align="center" alt="Gih-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
   
   ##
  
